@@ -1,0 +1,4 @@
+// Indicates which folders and files Git should ignoren
+
+node.js
+node_modules
