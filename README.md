@@ -1,5 +1,17 @@
 # Gypzes-SVG-Logo-maker
 
+## Table of Contents
+
+1. Description
+2. Installation
+3. Usage
+4. Features
+5. Tests
+6. Video Demonstration
+7. License
+8. Credits
+9. Questions
+
 ## Description
 
 This project is a README.md Generator built with Node.js and powered by the Inquirer package. The project includes Jest for testing core functionality, ensuring the reliability and performance of your generator. It simplifies the process of creating consistent and professional documentation for your projects by guiding you through a series of prompts.

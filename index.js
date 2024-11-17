@@ -1,8 +1,9 @@
 // Runs the application using imports from lib/ 
 
 // index.js
+// In this file, we use the inquirer package to prompt the user for input to generate an SVG logo.
 const inquirer = require('inquirer'); 
-const fs = require('fs'); 
+const fs = require('fs'); // fs is a built-in Node.js module for file system operations.
 const path = require('path'); 
 const { Circle, Triangle, Square } = require('./lib/shapes'); 
 
@@ -46,10 +47,10 @@ inquirer.prompt(questions).then(answers => {
     }
     shape.setColor(answers.shapeColor);
 
-    const svgContent = `
+    const svgContent = ` 
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg"> 
     ${shape.render()}
-    <text x="150" y="125" font-size="60" text-anchor="middle" fill="${answers.textColor}">${answers.text}</text>
+    <text x="150" y="125" font-size="60" text-anchor="middle" fill="${answers.textColor}">${answers.text}</text> 
 </svg>`;
 
 const filePath = path.join(__dirname, 'examples', 'logo.svg');
