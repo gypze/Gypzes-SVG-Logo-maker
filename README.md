@@ -60,7 +60,7 @@ Say goodbye to tedious formatting and focus on what matters most—your code!.
 
 ## Video Demonstration
     
-    A video demonstration showcasing the application's functionality will be available soon. Stay tuned!
+    <iframe src="https://drive.google.com/file/d/1XIT2yx_6zZw_NNUivL8MSmaRGI98o3S6/preview" width="640" height="480"></iframe>
 
 ## License
     
@@ -68,7 +68,6 @@ Say goodbye to tedious formatting and focus on what matters most—your code!.
 
 ## Credits
 Developer: Gypze
-
 
 
 ## Questions
