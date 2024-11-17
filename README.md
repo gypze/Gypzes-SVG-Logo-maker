@@ -2,15 +2,15 @@
 
 ## Table of Contents
 
-1. Description
-2. Installation
-3. Usage
-4. Features
-5. Tests
-6. Video Demonstration
-7. License
-8. Credits
-9. Questions
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Features](#features)
+5. [Tests](#tests)
+6. [Video Demonstration](#video-demonstration)
+7. [License](#license)
+8. [Credits](#credits)
+9. [Questions](#questions)
 
 ## Description
 
@@ -20,7 +20,7 @@ Say goodbye to tedious formatting and focus on what matters most—your code!.
 
 ## Installation
 1. Clone the repository to your local machine:
-    git clone <repository-url>
+    git clone <https://github.com/gypze/Gypzes-SVG-Logo-maker.git>
 
 2. Navigate to the project folder:
     cd readme-generator
@@ -69,9 +69,13 @@ Say goodbye to tedious formatting and focus on what matters most—your code!.
 ## Credits
 Developer: Gypze
 
+gitgub url: https://github.com/gypze/Gypzes-SVG-Logo-maker.git
+
 
 ## Questions
 
 If you have any questions or feedback, feel free to reach out: 
     Email: Gypzemoon@gmail.com
+
+
 
